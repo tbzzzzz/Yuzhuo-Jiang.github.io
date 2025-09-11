@@ -1,0 +1,11 @@
+title: 我的主页
+description: GitHub Pages 
+theme: null   
+markdown: kramdown
+
+# 导航配置
+nav:
+  - title: "主页"
+    url: /
+  - title: "导师介绍"
+    url: /tutor/
